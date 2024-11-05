@@ -31,7 +31,7 @@ function FootBar() {
 					</div>
 					<div className="footerLogoContainer">
 						<img className="footerLogo" src={logoImg} alt="" />
-						<div>© 2022-25 (V 1.0)</div>
+						<div>© 2024-25 (V 1.0)</div>
 						<div>Developed by SharpLearn Team</div>
 					</div>
 				</div>
@@ -42,7 +42,7 @@ function FootBar() {
 					<a href="https://www.youtube.com/channel/UC9jZsQkYm4xXQlB2gXnYQjw" target="_blank" rel="noreferrer">
 						YouTube
 					</a>
-					<a href="https://www.instagram.com/sharplearn0/" target="_blank" rel="noreferrer">
+					<a href="https://www.instagram.com/pushpanjaypatel/" target="_blank" rel="noreferrer">
 						Instagram
 					</a>
 				</div>
@@ -59,7 +59,7 @@ function FootBar() {
 				</div>
 				<div className="footerLogoContainer">
 					<img className="footerLogo" src={logoImg} alt="" />
-					<div>© 2022-25 (V 1.0)</div>
+					<div>© 2024-25 (V 1.0)</div>
 					<div>Developed by SharpLearn Team</div>
 				</div>
 			</div>
