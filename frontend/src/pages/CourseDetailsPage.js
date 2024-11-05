@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
+import { NavLink } from 'react-router-dom';
 
 import { currentLocalBalance, handleCurentBalance } from '../utils';
 
@@ -153,6 +154,21 @@ function CourseDetailsPage() {
 							>
 								{isEnrolled ? 'Enrolled' : 'Enroll Now'}
 							</Button>
+							<NavLink to={courseDetail?.courseLink} target="_blank">
+								<Button
+									variant="contained"
+									color="info"
+									className="openCourseBtn"
+									sx={{ mt: 3, mr: 2, py: 1.2, px: 2.5 }}
+									startIcon={<FlashOnRoundedIcon />}
+									// onClick={() => handleMsgShown('This feature is not available now', 'warning')}
+									// onClick={handleEnrollBtnClick}
+									// href={courseDetail?.courseLink}
+									// disabled={isEnrolled}
+								>
+									Download
+								</Button>
+							</NavLink>
 							{!isEnrolled && (
 								<Button
 									variant="contained"
