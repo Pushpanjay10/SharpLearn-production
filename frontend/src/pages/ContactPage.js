@@ -79,7 +79,7 @@ function AboutPage() {
 					</a>
 				</div>
 				<div>
-					<a href="https://t.me/adarsh3699" target="_blank" className="socialLinksBox" rel="noreferrer">
+					<a href="https://t.me/pushpanjaypatel" target="_blank" className="socialLinksBox" rel="noreferrer">
 						<img src={telegramIconImg} height="40px" alt="" />
 						<div>Telegram</div>
 					</a>
