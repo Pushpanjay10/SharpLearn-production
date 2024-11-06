@@ -78,12 +78,7 @@ function AboutPage() {
 						<div>sharplearn0@gmil.com</div>
 					</a>
 				</div>
-				<div>
-					<a href="https://t.me/pushpanjaypatel" target="_blank" className="socialLinksBox" rel="noreferrer">
-						<img src={telegramIconImg} height="40px" alt="" />
-						<div>Telegram</div>
-					</a>
-				</div>
+	
 				<div className="subTitle">Follow Me</div>
 				<div>
 					<a
