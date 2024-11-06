@@ -69,13 +69,13 @@ function AboutPage() {
 				<div>
 					<a href="mailto:adarsh3699@gmail.com" className="socialLinksBox">
 						<img src={emailIconImg} alt="" />
-						<div>adarsh3699@gmail.com</div>
+						<div>sharplearn0@gmail.com</div>
 					</a>
 				</div>
 				<div>
 					<a href="mailto:bhemu369@gmail.com" className="socialLinksBox">
 						<img src={emailIconImg} alt="" />
-						<div>bhemu369@gmail.com</div>
+						<div>sharplearn0@gmil.com</div>
 					</a>
 				</div>
 				<div>
@@ -87,7 +87,7 @@ function AboutPage() {
 				<div className="subTitle">Follow Me</div>
 				<div>
 					<a
-						href="https://www.instagram.com/_adarsh.s/"
+						href="https://www.instagram.com/pushpanjaypatel/"
 						target="_blank"
 						className="socialLinksBox"
 						rel="noreferrer"
@@ -98,7 +98,7 @@ function AboutPage() {
 				</div>
 				<div>
 					<a
-						href="https://www.instagram.com/_adarsh.s/"
+						href="https://www.instagram.com/pushpanjaypatel/"
 						target="_blank"
 						className="socialLinksBox"
 						rel="noreferrer"
@@ -109,7 +109,7 @@ function AboutPage() {
 				</div>
 				<div>
 					<a
-						href="https://www.youtube.com/@gamingWithBhemu/"
+						href="https://www.youtube.com/@pushpanjay patel/"
 						target="_blank"
 						className="socialLinksBox"
 						rel="noreferrer"
@@ -119,7 +119,7 @@ function AboutPage() {
 					</a>
 				</div>
 				<div>
-					<a href="https://github.com/adarsh3699" target="_blank" className="socialLinksBox" rel="noreferrer">
+					<a href="https://github.com/pushpanjay10" target="_blank" className="socialLinksBox" rel="noreferrer">
 						<svg height="30" viewBox="0 0 16 16" version="1.1" id="git">
 							<path
 								fillRule="evenodd"
